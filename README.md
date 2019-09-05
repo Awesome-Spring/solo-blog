@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [直接插入排序](http://jiangtao.store/articles/2019/09/05/1567613212809.html)
+* [冒泡排序](http://jiangtao.store/articles/2019/09/05/1567612862975.html)
+* [排序算法](http://jiangtao.store/articles/2019/09/04/1567612384443.html)
 * [HashMap源码学习（二）](http://jiangtao.store/articles/2019/09/03/1567470646803.html)
 * [HashMap源码学习（一）](http://jiangtao.store/articles/2019/09/01/1567343762672.html)
 
