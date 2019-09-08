@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [快速排序算法](http://jiangtao.store/articles/2019/09/07/1567869282278.html)
 * [直接插入排序](http://jiangtao.store/articles/2019/09/05/1567613212809.html)
 * [冒泡排序](http://jiangtao.store/articles/2019/09/05/1567612862975.html)
 * [排序算法](http://jiangtao.store/articles/2019/09/04/1567612384443.html)
