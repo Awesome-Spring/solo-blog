@@ -12,7 +12,7 @@
 
 * [希尔排序](http://www.jiangtao.store/articles/2019/09/11/1568203831822.html)
 * [[转载]Thymeleaf参考手册](http://www.jiangtao.store/articles/2019/09/09/1568016444510.html)
-* [Spring面试相关知识点](http://www.jiangtao.store/articles/2019/09/08/1567954072192.html)
+* [Spring相关知识点](http://www.jiangtao.store/articles/2019/09/08/1567954072192.html)
 * [选择排序](http://www.jiangtao.store/articles/2019/09/08/1567952314586.html)
 * [Mysql索引学习](http://www.jiangtao.store/articles/2019/09/08/1567950987521.html)
 * [快速排序算法](http://www.jiangtao.store/articles/2019/09/07/1567869282278.html)
